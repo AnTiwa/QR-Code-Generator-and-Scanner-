@@ -1,9 +1,8 @@
-id,name,dob,class
-1,Captain America,4/6/1918,XII
-2,Iron Man,29/07/1970,XI
-3,Hulk,8/12/1968,XI
-4,Thor,00/00/0000,XII
-5,Black Widow,1/1/1984,X
-6,Hawkeye,7/1/1971,X
-7,Doctor Strange,1/1/1930,XII
-,,,
+id,name,branch,year
+19CE1088,Anuj Tiwari,CE,2019
+19CE1045,Rajan Singh,CE,2019
+19CE2028,Kshitij Darekar,CE,2019
+19IT1001,Jadoo,IT,2019
+19IT1002,Rahul,IT,2019
+19IT1003,Ganesh,IT,2019
+19ET1001,Ankit,EXTC,2019
